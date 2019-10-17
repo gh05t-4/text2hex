@@ -2,7 +2,7 @@
 This program helps you convert text to hexadecimal values.
 
 #### Cloning the repository
-git clone https://github.com/gh05t-4/text2hex.git
+`git clone https://github.com/gh05t-4/text2hex.git`
 
 #### Usage
 ```
